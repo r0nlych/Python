@@ -1,0 +1,2 @@
+﻿case_id,method,url,keyword,expected_status
+API-001,GET,https://mock.api/search,sword,200
